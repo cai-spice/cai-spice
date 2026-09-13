@@ -7,6 +7,8 @@ PenTest+ certified <br>
   
 <h2>👩🏻‍💻 Projects:</h2>
 
+- <b>File Integrity Monitor</b>
+  - [Python-Based FIM](https://github.com/cai-spice/Python-Based-FIM) <br />
 - <b>GRC Audit</b>
   - [NIST SP 800-53 Media Protection Audit](https://github.com/cai-spice/nist-sp-800-53-audit)
 
