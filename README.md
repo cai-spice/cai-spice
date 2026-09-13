@@ -1,7 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Cai! <br/><a href="https://www.linkedin.com/in/cai-spice-/">Cybersecurity Professional</a>
+  
+<h2>👨‍💻 Projects:</h2>
+
+- <b>GRC Audit</b>
+  - [NIST SP 800-53 Media Protection Audit](https://github.com/cai-spice/nist-sp-800-53-audit)
 
 <!--
-**cai-spice/cai-spice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
