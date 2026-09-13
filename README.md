@@ -1,7 +1,7 @@
 <h1>Hi, I'm Cai! <br/><a href="https://www.linkedin.com/in/cai-spice-/">Cybersecurity Professional</a></h1>
 
 ✴ B.S. Cybersecurity from WGU <br>
-✴ CompTIA Security+, CySA+, and
+✴ CompTIA Network+, Security+, CySA+, and
 PenTest+ certified <br>
 ✴ Interested in GRC and defensive security <br>
   
