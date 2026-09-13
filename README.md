@@ -5,7 +5,7 @@
 PenTest+ certified <br>
 ✴ Interested in GRC and defensive security <br>
   
-<h2>👨‍💻 Projects:</h2>
+<h2>👩🏻‍💻 Projects:</h2>
 
 - <b>GRC Audit</b>
   - [NIST SP 800-53 Media Protection Audit](https://github.com/cai-spice/nist-sp-800-53-audit)
