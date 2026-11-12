@@ -21,7 +21,7 @@
     </rect>
   </g>
   <!-- text. Edit the name and tagline below. -->
-  <text x="248" y="84" font-family="'Courier New', Courier, monospace" font-size="16" letter-spacing="3" fill="#D9A441">&gt; CHARACTER SHEET</text>
-  <text x="248" y="134" font-family="'Courier New', Courier, monospace" font-size="46" font-weight="700" fill="#E8D9B5">[YOUR NAME]</text>
-  <text x="248" y="168" font-family="'Courier New', Courier, monospace" font-size="18" fill="#C3A1F0">[YOUR TAGLINE: class, guild, favorite spell]</text>
+  <text x="248" y="84" font-family="'Courier New', Courier, monospace" font-size="16" letter-spacing="3" fill="#D9A441">&gt; Cybersecurity Analyst</text>
+  <text x="248" y="134" font-family="'Courier New', Courier, monospace" font-size="46" font-weight="700" fill="#E8D9B5">Cai Spice</text>
+  <text x="248" y="168" font-family="'Courier New', Courier, monospace" font-size="18" fill="#C3A1F0">SecOps, Vulnerability Management, Threat Hunting</text>
 </svg>
