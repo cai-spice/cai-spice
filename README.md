@@ -10,17 +10,18 @@
 ✴ WGU B.S Cybersecurity ✴ Sentinel, KQL, Threat Hunting, Python ✴ CompTIA Pentest+, CySA+, Security+, Network+ Certified ✴ 
 
 
-## ⚔️` Projects `
+## ⚔️ Projects
 
 
-## 🕯️` Currently Learning `
+## 🕯️ Currently Learning 
 
 
 
-## 🐦‍⬛` Send a Raven `
+## 🐦‍⬛ Send a Raven
 
-- 🌐 [My Website](https://caibytes.carrd.co)
-- ✉️ [Email](mailto:cai.spice06@gmail.com)
+✴ 🌐 [caibytes.carrd.co](https://caibytes.carrd.co) <br>
+✴ ✉️ [Email me](mailto:cai.spice06@gmail.com) <br>
+✴ 👩‍💻 [LinkedIn](https://www.linkedin.com/in/cai-spice-/)
 <!-- - 🔗 [[OTHER-LINK]](https://[OTHER-LINK]) -->
 
 <div align="center">
