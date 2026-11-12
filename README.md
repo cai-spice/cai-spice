@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**cai-spice/cai-spice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="assets/banner.svg" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+✴ WGU B.S Cybersecurity ✴ Sentinel, KQL, Threat Hunting, Python ✴ 
+
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## ⚔️` Projects `
+
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 🐍` The Long Road `
+
+<!-- Produced by .github/workflows/snake.yml and pushed to the "output" branch. -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/cai-spice/cai-spice/output/snake.svg" alt="Contribution graph rendered as a snake eating contribution squares" width="100%">
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 🐦‍⬛` Send a Raven `
+
+- 🌐 [My Website](https://caibytes.carrd.co)
+- ✉️ [Email](mailto:cai.spice06@gmail.com)
+<!-- - 🔗 [[OTHER-LINK]](https://[OTHER-LINK]) -->
+
+<div align="center">
+
+*Hail, traveler.*
+
+</div>
