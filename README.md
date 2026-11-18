@@ -4,9 +4,11 @@
 
 </div>
 
-<img src="divider.svg" alt="" width="100%">
+<br>
 
 ✴ WGU B.S Cybersecurity ✴ Sentinel, KQL, Threat Hunting, Python ✴ CompTIA Pentest+, CySA+, Security+, Network+ Certified ✴ 
+
+<img src="divider.svg" alt="" width="100%">
 
 
 ## ⚔️ Projects
@@ -27,6 +29,9 @@
   
 <img src="divider.svg" alt="" width="100%">
 
-*Hail, traveler.*
+<br>
+<br>
+
+*Keep it secret, keep it safe.*
 
 </div>
