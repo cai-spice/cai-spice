@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-v2.gif" width="800" alt="Cai Spice: Cybersecurity Analyst">
+<img src="bannerv2.gif" width="800" alt="Cai Spice: Cybersecurity Analyst">
 
 </div>
 
