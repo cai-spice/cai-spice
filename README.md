@@ -6,7 +6,7 @@
 
 <br>
 
-✴ WGU B.S Cybersecurity ✴ Sentinel, KQL, Threat Hunting, Python ✴ CompTIA Pentest+, CySA+, Security+, Network+ Certified ✴ 
+✴ **WGU B.S Cybersecurity ✴ Sentinel, KQL, Threat Hunting ✴ CompTIA Pentest+, CySA+, Security+, Network+ certified** ✴ 
 
 <img src="divider.svg" alt="" width="100%">
 
@@ -16,7 +16,8 @@
 
 ## 🕯️ Currently Learning 
 
-
+✴ ![KQL](https://img.shields.io/badge/KQL-8C1C2B?style=flat-square)  Advanced KQL and detection engineering <br>
+✴ ![Python](https://img.shields.io/badge/Python-8C1C2B?style=flat-square)  Python for security automation <br>
 
 ## 🐦‍⬛ Send a Raven
 
