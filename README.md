@@ -12,7 +12,7 @@
 
 ## ⚔️ Projects
 
-<a href="[[LINK-TO-REPORT]](https://github.com/cai-spice/php2shell-threat-hunt)"> <img src="project-card-health-check.svg" alt="The Health Check That Wasn't: a web shell threat hunt using Microsoft Sentinel and KQL. 14 hunt steps, 13 ATT&CK techniques, 9 kill chain phases. Hypothesis confirmed." width="100%"> </a>
+<a href="[[LINK-TO-REPORT]](https://github.com/cai-spice/php2shell-threat-hunt)"> <img src="project-card-health-check(2).svg" alt="The Health Check That Wasn't: a web shell threat hunt using Microsoft Sentinel and KQL. 14 hunt steps, 13 ATT&CK techniques, 9 kill chain phases. Hypothesis confirmed." width="100%"> </a>
 
 ![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-8C1C2B?style=flat-square) ![KQL](https://img.shields.io/badge/KQL-5B2A86?style=flat-square) ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-8C1C2B?style=flat-square) ![MITRE ATT&ck](https://img.shields.io/badge/MITRE_ATT%26CK-5B2A86?style=flat-square) ![Practice Lab](https://img.shields.io/badge/Practice_Lab-8C1C2B?style=flat-square)
 
